@@ -23,7 +23,7 @@ Example:
 		"os/signal"
 		"syscall"
 
-		"github.com/takama/daemon"
+		daemon "github.com/wheelcomplex/takama-go-daemon"
 	)
 
 	const (

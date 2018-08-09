@@ -15,7 +15,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/takama/daemon"
+    daemon "github.com/wheelcomplex/takama-go-daemon"
 )
 
 func main() {
@@ -45,7 +45,7 @@ import (
     "os/signal"
     "syscall"
 
-    "github.com/takama/daemon"
+    daemon "github.com/wheelcomplex/takama-go-daemon"
 )
 
 const (
